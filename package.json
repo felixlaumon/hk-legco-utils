@@ -1,0 +1,31 @@
+{
+  "name": "hk-legco-utils",
+  "version": "0.0.1",
+  "description": "A set of utilities for downloading and converting Hong Kong Legco data to JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "hong",
+    "kong",
+    "hk",
+    "legco",
+    "data",
+    "data-viz",
+    "converter"
+  ],
+  "author": "Felix Lau <felixlaumon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "q": "~1.0.0",
+    "cheerio": "~0.13.1",
+    "mkdirp": "~0.3.5",
+    "debug": "~0.7.4",
+    "q-io": "~1.10.8",
+    "lodash": "~2.4.1",
+    "xml2js": "~0.4.1",
+    "async": "~0.2.10",
+    "request": "~2.33.0"
+  }
+}

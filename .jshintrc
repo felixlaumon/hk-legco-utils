@@ -1,0 +1,16 @@
+{
+  // Enforcing
+  "eqeqeq": true,
+  "strict": true,
+  "undef": true,
+  "unused": true,
+  "quotmark": "single",
+  "noarg": true,
+  "trailing": true,
+  "noempty": true,
+  "latedef": true,
+
+  // Environments
+  "esnext": true,
+  "node": true
+}
