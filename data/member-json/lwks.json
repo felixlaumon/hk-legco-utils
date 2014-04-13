@@ -1,1 +1,44 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/lwks.jpg","id":"lwks","name_ch":"李慧琼","constituency_ch":{"type":"功能界別","area":"區議會(第二)"},"educations_ch":["英國曼徹斯特大學工商管理碩士","香港科技大學工商管理學士","香港會計師公會會員","英倫及威爾斯特許會計師公會會員","英國特許秘書及行政人員公會會員","香港特許秘書公會會士"],"occupations_ch":["會計師"],"parties_ch":["民主建港協進聯盟"],"email":"info@starrylee.com","homepage":"http://www.starrylee.com","name_en":"Starry LEE Wai-king","constituency_en":{"type":"Functional Constituency","area":"District Council (Second)"},"educations_en":["MBA, The University of Manchester","BBA, HKUST","HKICPA","ACA","ACS","ACIS"],"occupations_en":["Certified Public Accountant"],"parties_en":["Democratic Alliance for the Betterment and Progress of Hong Kong"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/lwks.jpg",
+  "id": "lwks",
+  "name_ch": "李慧琼",
+  "constituency_ch": {
+    "type": "功能界別",
+    "area": "區議會(第二)"
+  },
+  "educations_ch": [
+    "英國曼徹斯特大學工商管理碩士",
+    "香港科技大學工商管理學士",
+    "香港會計師公會會員",
+    "英倫及威爾斯特許會計師公會會員",
+    "英國特許秘書及行政人員公會會員",
+    "香港特許秘書公會會士"
+  ],
+  "occupations_ch": [
+    "會計師"
+  ],
+  "parties_ch": [
+    "民主建港協進聯盟"
+  ],
+  "email": "info@starrylee.com",
+  "homepage": "http://www.starrylee.com",
+  "name_en": "Starry LEE Wai-king",
+  "constituency_en": {
+    "type": "Functional Constituency",
+    "area": "District Council (Second)"
+  },
+  "educations_en": [
+    "MBA, The University of Manchester",
+    "BBA, HKUST",
+    "HKICPA",
+    "ACA",
+    "ACS",
+    "ACIS"
+  ],
+  "occupations_en": [
+    "Certified Public Accountant"
+  ],
+  "parties_en": [
+    "Democratic Alliance for the Betterment and Progress of Hong Kong"
+  ]
+}

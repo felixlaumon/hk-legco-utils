@@ -1,1 +1,36 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/lkh.jpg","id":"lkh","name_ch":"梁國雄","constituency_ch":{"type":"地方選區","area":"新界東"},"educations_ch":["中六"],"occupations_ch":["立法會議員"],"parties_ch":["四五行動","社會民主連線"],"email":"longhairlongmarch@yahoo.com.hk","homepage":"http://www.longhair.hk","name_en":"LEUNG Kwok-hung","constituency_en":{"type":"Geographical Constituency","area":"New Territories East"},"educations_en":["Form Six"],"occupations_en":["Legislative Council Member"],"parties_en":["April Fifth Action","League of Social Democrats"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/lkh.jpg",
+  "id": "lkh",
+  "name_ch": "梁國雄",
+  "constituency_ch": {
+    "type": "地方選區",
+    "area": "新界東"
+  },
+  "educations_ch": [
+    "中六"
+  ],
+  "occupations_ch": [
+    "立法會議員"
+  ],
+  "parties_ch": [
+    "四五行動",
+    "社會民主連線"
+  ],
+  "email": "longhairlongmarch@yahoo.com.hk",
+  "homepage": "http://www.longhair.hk",
+  "name_en": "LEUNG Kwok-hung",
+  "constituency_en": {
+    "type": "Geographical Constituency",
+    "area": "New Territories East"
+  },
+  "educations_en": [
+    "Form Six"
+  ],
+  "occupations_en": [
+    "Legislative Council Member"
+  ],
+  "parties_en": [
+    "April Fifth Action",
+    "League of Social Democrats"
+  ]
+}

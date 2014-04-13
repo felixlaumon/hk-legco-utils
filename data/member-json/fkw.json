@@ -1,1 +1,40 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/fkw.jpg","id":"fkw","name_ch":"范國威","constituency_ch":{"type":"地方選區","area":"新界東"},"educations_ch":["美國三藩市州立大學政治學碩士","美國三藩市美術學院學士"],"occupations_ch":["立法會議員","西貢區議會議員","兼職大學導師"],"parties_ch":["新民主同盟"],"email":"fankwokwaioffice@gmail.com","homepage":"http://www.garyfan.org","name_en":"Gary FAN Kwok-wai","constituency_en":{"type":"Geographical Constituency","area":"New Territories East"},"educations_en":["Master of Arts (Political Science), San Francisco State University, USA","Bachelor of Visual Arts, Academy of Art University, USA"],"occupations_en":["Legislative Council Member","Sai Kung District Council member","Part-time University Tutor"],"parties_en":["Neo Democrats"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/fkw.jpg",
+  "id": "fkw",
+  "name_ch": "范國威",
+  "constituency_ch": {
+    "type": "地方選區",
+    "area": "新界東"
+  },
+  "educations_ch": [
+    "美國三藩市州立大學政治學碩士",
+    "美國三藩市美術學院學士"
+  ],
+  "occupations_ch": [
+    "立法會議員",
+    "西貢區議會議員",
+    "兼職大學導師"
+  ],
+  "parties_ch": [
+    "新民主同盟"
+  ],
+  "email": "fankwokwaioffice@gmail.com",
+  "homepage": "http://www.garyfan.org",
+  "name_en": "Gary FAN Kwok-wai",
+  "constituency_en": {
+    "type": "Geographical Constituency",
+    "area": "New Territories East"
+  },
+  "educations_en": [
+    "Master of Arts (Political Science), San Francisco State University, USA",
+    "Bachelor of Visual Arts, Academy of Art University, USA"
+  ],
+  "occupations_en": [
+    "Legislative Council Member",
+    "Sai Kung District Council member",
+    "Part-time University Tutor"
+  ],
+  "parties_en": [
+    "Neo Democrats"
+  ]
+}

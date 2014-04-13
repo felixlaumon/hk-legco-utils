@@ -1,1 +1,32 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/ltf.jpg","id":"ltf","name_ch":"林大輝","constituency_ch":{"type":"功能界別","area":"工業界（第二）"},"educations_ch":["香港理工學院（現香港理工大學）紡織工藝學高級文憑","香港理工大學榮譽工商管理博士"],"occupations_ch":["立法會議員"],"parties_ch":[],"email":"tflam@tflam.com.hk","homepage":"","name_en":"Dr LAM Tai-fai","constituency_en":{"type":"Functional Constituency","area":"Industrial (Second)"},"educations_en":["Higher Diploma in Textile Technology, Hong Kong Polytechnic (The Hong Kong Polytechnic University)","Honorary Doctor of Business Administration, The Hong Kong Polytechnic University"],"occupations_en":["Legislative Council Member"],"parties_en":[]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/ltf.jpg",
+  "id": "ltf",
+  "name_ch": "林大輝",
+  "constituency_ch": {
+    "type": "功能界別",
+    "area": "工業界（第二）"
+  },
+  "educations_ch": [
+    "香港理工學院（現香港理工大學）紡織工藝學高級文憑",
+    "香港理工大學榮譽工商管理博士"
+  ],
+  "occupations_ch": [
+    "立法會議員"
+  ],
+  "parties_ch": [],
+  "email": "tflam@tflam.com.hk",
+  "homepage": "",
+  "name_en": "Dr LAM Tai-fai",
+  "constituency_en": {
+    "type": "Functional Constituency",
+    "area": "Industrial (Second)"
+  },
+  "educations_en": [
+    "Higher Diploma in Textile Technology, Hong Kong Polytechnic (The Hong Kong Polytechnic University)",
+    "Honorary Doctor of Business Administration, The Hong Kong Polytechnic University"
+  ],
+  "occupations_en": [
+    "Legislative Council Member"
+  ],
+  "parties_en": []
+}

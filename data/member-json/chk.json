@@ -1,1 +1,36 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/chk.jpg","id":"chk","name_ch":"陳克勤","constituency_ch":{"type":"地方選區","area":"新界東"},"educations_ch":["香港中文大學社會科學（榮譽）學士","香港中文大學社會科學碩士"],"occupations_ch":["立法會議員"],"parties_ch":["民主建港協進聯盟"],"email":"garychk@dab.org.hk","homepage":"","name_en":"CHAN Hak-kan","constituency_en":{"type":"Geographical Constituency","area":"New Territories East"},"educations_en":["Bachelor of Social Science (Hons) (CUHK)","Master of Social Science (CUHK)"],"occupations_en":["Legislative Council Member"],"parties_en":["Democratic Alliance for the Betterment and Progress of Hong Kong"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/chk.jpg",
+  "id": "chk",
+  "name_ch": "陳克勤",
+  "constituency_ch": {
+    "type": "地方選區",
+    "area": "新界東"
+  },
+  "educations_ch": [
+    "香港中文大學社會科學（榮譽）學士",
+    "香港中文大學社會科學碩士"
+  ],
+  "occupations_ch": [
+    "立法會議員"
+  ],
+  "parties_ch": [
+    "民主建港協進聯盟"
+  ],
+  "email": "garychk@dab.org.hk",
+  "homepage": "",
+  "name_en": "CHAN Hak-kan",
+  "constituency_en": {
+    "type": "Geographical Constituency",
+    "area": "New Territories East"
+  },
+  "educations_en": [
+    "Bachelor of Social Science (Hons) (CUHK)",
+    "Master of Social Science (CUHK)"
+  ],
+  "occupations_en": [
+    "Legislative Council Member"
+  ],
+  "parties_en": [
+    "Democratic Alliance for the Betterment and Progress of Hong Kong"
+  ]
+}

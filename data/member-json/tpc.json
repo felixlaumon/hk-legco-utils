@@ -1,1 +1,36 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/tpc.jpg","id":"tpc","name_ch":"田北俊","constituency_ch":{"type":"地方選區","area":"新界東"},"educations_ch":["美國聖荷西大學化學工程碩士","美國伊利諾州大學化學工程學士"],"occupations_ch":["公司主席"],"parties_ch":["自由黨"],"email":"tpc@jamestien.com","homepage":"http://www.jamestien.com","name_en":"James TIEN Pei-chun","constituency_en":{"type":"Geographical Constituency","area":"New Territories East"},"educations_en":["M.Sc. in Chemical Engineering, San Jose State University, USA","B.Sc. in Chemical Engineering, University of Illinois, USA"],"occupations_en":["Company Chairman"],"parties_en":["Liberal Party"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/tpc.jpg",
+  "id": "tpc",
+  "name_ch": "田北俊",
+  "constituency_ch": {
+    "type": "地方選區",
+    "area": "新界東"
+  },
+  "educations_ch": [
+    "美國聖荷西大學化學工程碩士",
+    "美國伊利諾州大學化學工程學士"
+  ],
+  "occupations_ch": [
+    "公司主席"
+  ],
+  "parties_ch": [
+    "自由黨"
+  ],
+  "email": "tpc@jamestien.com",
+  "homepage": "http://www.jamestien.com",
+  "name_en": "James TIEN Pei-chun",
+  "constituency_en": {
+    "type": "Geographical Constituency",
+    "area": "New Territories East"
+  },
+  "educations_en": [
+    "M.Sc. in Chemical Engineering, San Jose State University, USA",
+    "B.Sc. in Chemical Engineering, University of Illinois, USA"
+  ],
+  "occupations_en": [
+    "Company Chairman"
+  ],
+  "parties_en": [
+    "Liberal Party"
+  ]
+}

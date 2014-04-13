@@ -1,1 +1,36 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/csk.jpg","id":"csk","name_ch":"鍾樹根","constituency_ch":{"type":"地方選區","area":"香港島"},"educations_ch":["英國格拉斯哥克里多利亞大學理碩士(電子商貿)","英國威爾斯大學工商管理碩士"],"occupations_ch":["全職立法會議員"],"parties_ch":["民主建港協進聯盟"],"email":"office@chungsk.com","homepage":"","name_en":"Christopher CHUNG Shu-kun","constituency_en":{"type":"Geographical Constituency","area":"Hong Kong Island"},"educations_en":["M.Sc., Glasgow Caledonian University, UK","MBA, University of Wales, Newport, UK"],"occupations_en":["Full-time Legislative Council Member"],"parties_en":["Democratic Alliance for the Betterment and Progress of Hong Kong"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/csk.jpg",
+  "id": "csk",
+  "name_ch": "鍾樹根",
+  "constituency_ch": {
+    "type": "地方選區",
+    "area": "香港島"
+  },
+  "educations_ch": [
+    "英國格拉斯哥克里多利亞大學理碩士(電子商貿)",
+    "英國威爾斯大學工商管理碩士"
+  ],
+  "occupations_ch": [
+    "全職立法會議員"
+  ],
+  "parties_ch": [
+    "民主建港協進聯盟"
+  ],
+  "email": "office@chungsk.com",
+  "homepage": "",
+  "name_en": "Christopher CHUNG Shu-kun",
+  "constituency_en": {
+    "type": "Geographical Constituency",
+    "area": "Hong Kong Island"
+  },
+  "educations_en": [
+    "M.Sc., Glasgow Caledonian University, UK",
+    "MBA, University of Wales, Newport, UK"
+  ],
+  "occupations_en": [
+    "Full-time Legislative Council Member"
+  ],
+  "parties_en": [
+    "Democratic Alliance for the Betterment and Progress of Hong Kong"
+  ]
+}

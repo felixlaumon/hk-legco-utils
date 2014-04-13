@@ -172,7 +172,7 @@ function saveJson (xml, cb) {
   var dir = dirPrefix + yr + '/';
   var ext = '.json';
   var name = path.basename(xml.url, '.xml');
-  var json = JSON.stringify(xml.json);
+  var json = JSON.stringify(xml.json, null, 2);
   debug('saving to %s', dir + name + ext);
   mkdirp.sync(dir);
   fs.writeFile(dir + name + ext, json, cb);
@@ -208,10 +208,7 @@ function groupByMotions (session, cb) {
 function attachMemberId (session, cb) {
   _.each(session.motions, function (motion) {
     _.each(motion.votes, function (vote) {
-      var member = _.where(session.members, { name: vote.name_ch })[0];
-      if (!member) {
-        debugger;
-      }
+      var member = _.where(session.members, { name_ch: vote.name_ch })[0];
       vote.id = member.id || 'not found';
     });
   });
@@ -225,7 +222,7 @@ function saveMotion (motion, cb) {
   var dir = dirPrefix + yr + '/';
   var ext = '.json';
   var name = motion.id;
-  var json = JSON.stringify(motion);
+  var json = JSON.stringify(motion, null, 2);
   debug('saving to %s', dir + name + ext);
   mkdirp.sync(dir);
   fs.writeFile(dir + name + ext, json, cb);
@@ -237,6 +234,28 @@ function saveMotions (session, cb) {
     debug('saved %s motions for yr %s', session.motions.length, session.yr);
     cb(null, session);
   });
+}
+
+function saveAll (session, cb) {
+  var all = session.motions.map(function (motion) {
+    return {
+      id: motion.id,
+      motion_en: motion.motion_en,
+      motion_ch: motion.motion_ch,
+      ammendment: motion.ammendment,
+      overall: motion.summary.overall
+    };
+  });
+
+  var yr = session.yr;
+  var dirPrefix = './data/voting-motion-json/';
+  var dir = dirPrefix + yr + '/';
+  var ext = '.json';
+  var name = 'all';
+  var json = JSON.stringify(all, null, 2);
+  debug('saving to %s', dir + name + ext);
+  mkdirp.sync(dir);
+  fs.writeFile(dir + name + ext, json, cb);
 }
 
 module.exports = function extract (options, callback) {
@@ -254,7 +273,8 @@ module.exports = function extract (options, callback) {
       saveJsons,
       groupByMotions,
       attachMemberId,
-      saveMotions
+      saveMotions,
+      saveAll
     ], mapCb);
   }, callback);
 };

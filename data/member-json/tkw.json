@@ -1,1 +1,60 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/tkw.jpg","id":"tkw","name_ch":"湯家驊","constituency_ch":{"type":"地方選區","area":"新界東"},"educations_ch":["香港皇仁書院","香港大學法律學士（1972）（一級榮譽及全班第一名）","牛津大學民事法律（榮譽）學士（1974）","香港大學李福善法律獎章得主（1972）","國際扶輪社畢業生獎項得獎人（1973-1974）","牛津大學St. Edmund Hall Winter-Williams獎學金學生（1972-1974）","倫敦大律師公會終期試榮譽證書（一級榮譽及總第一名）（1974）","Lloyd Stott紀念獎（1974）","J.B.Montagu見習大律師獎（1974）","The Middle Temple榮譽證書（1974）","香港大律師公會會員","英國大律師公會理事會會員","美國紐約州大律師公會會員","香港大律師公會主席（1999-2001）"],"occupations_ch":["資深大律師"],"parties_ch":["公民黨"],"email":"","homepage":"","name_en":"Ronny TONG Ka-wah","constituency_en":{"type":"Geographical Constituency","area":"New Territories East"},"educations_en":["Queen’s College, Hong Kong","LL. B. (1st Class Honours/1st of Class), The University of Hong Kong (1972)","B.C.L. (Honours), Oxford University (1974)","Holder of Simon Lee Medal in Laws, The University of Hong Kong (1972)","Graduate Awardee, Rotary International (1973-1974)","Winter-Williams Scholar of St. Edmund Hall, Oxford University (1972-1974)","Certificate of Honour, London Bar Final Examination (1st Class Honours/1st of Candidates) (1974)","The Lloyd Stott Memorial Prize (1974)","J.B. Montagu Pupillage Prize (1974)","The Middle Temple Certificate of Honour Prize (1974)","Member of Hong Kong Bar Association","Member of The General Council of the Bar of England","Member of the New York State Bar Association of the United States of America","Chairman of the Hong Kong Bar Association (1999-2001)"],"occupations_en":["Senior Counsel"],"parties_en":["Civic Party"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/tkw.jpg",
+  "id": "tkw",
+  "name_ch": "湯家驊",
+  "constituency_ch": {
+    "type": "地方選區",
+    "area": "新界東"
+  },
+  "educations_ch": [
+    "香港皇仁書院",
+    "香港大學法律學士（1972）（一級榮譽及全班第一名）",
+    "牛津大學民事法律（榮譽）學士（1974）",
+    "香港大學李福善法律獎章得主（1972）",
+    "國際扶輪社畢業生獎項得獎人（1973-1974）",
+    "牛津大學St. Edmund Hall Winter-Williams獎學金學生（1972-1974）",
+    "倫敦大律師公會終期試榮譽證書（一級榮譽及總第一名）（1974）",
+    "Lloyd Stott紀念獎（1974）",
+    "J.B.Montagu見習大律師獎（1974）",
+    "The Middle Temple榮譽證書（1974）",
+    "香港大律師公會會員",
+    "英國大律師公會理事會會員",
+    "美國紐約州大律師公會會員",
+    "香港大律師公會主席（1999-2001）"
+  ],
+  "occupations_ch": [
+    "資深大律師"
+  ],
+  "parties_ch": [
+    "公民黨"
+  ],
+  "email": "",
+  "homepage": "",
+  "name_en": "Ronny TONG Ka-wah",
+  "constituency_en": {
+    "type": "Geographical Constituency",
+    "area": "New Territories East"
+  },
+  "educations_en": [
+    "Queen’s College, Hong Kong",
+    "LL. B. (1st Class Honours/1st of Class), The University of Hong Kong (1972)",
+    "B.C.L. (Honours), Oxford University (1974)",
+    "Holder of Simon Lee Medal in Laws, The University of Hong Kong (1972)",
+    "Graduate Awardee, Rotary International (1973-1974)",
+    "Winter-Williams Scholar of St. Edmund Hall, Oxford University (1972-1974)",
+    "Certificate of Honour, London Bar Final Examination (1st Class Honours/1st of Candidates) (1974)",
+    "The Lloyd Stott Memorial Prize (1974)",
+    "J.B. Montagu Pupillage Prize (1974)",
+    "The Middle Temple Certificate of Honour Prize (1974)",
+    "Member of Hong Kong Bar Association",
+    "Member of The General Council of the Bar of England",
+    "Member of the New York State Bar Association of the United States of America",
+    "Chairman of the Hong Kong Bar Association (1999-2001)"
+  ],
+  "occupations_en": [
+    "Senior Counsel"
+  ],
+  "parties_en": [
+    "Civic Party"
+  ]
+}

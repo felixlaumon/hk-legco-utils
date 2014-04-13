@@ -1,1 +1,36 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/lcy.jpg","id":"lcy","name_ch":"李卓人","constituency_ch":{"type":"地方選區","area":"新界西"},"educations_ch":["香港大學土木工程系（理學士）"],"occupations_ch":["立法會議員"],"parties_ch":["香港職工會聯盟","工黨"],"email":"yanlee@hkctu.org.hk","homepage":"http://www.leecheukyan.org","name_en":"LEE Cheuk-yan","constituency_en":{"type":"Geographical Constituency","area":"New Territories West"},"educations_en":["B. Sc. (Eng.), Department of Civil Engineering, The University of Hong Kong"],"occupations_en":["Legislative Council Member"],"parties_en":["Hong Kong Confederation of Trade Unions","Labour Party"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/lcy.jpg",
+  "id": "lcy",
+  "name_ch": "李卓人",
+  "constituency_ch": {
+    "type": "地方選區",
+    "area": "新界西"
+  },
+  "educations_ch": [
+    "香港大學土木工程系（理學士）"
+  ],
+  "occupations_ch": [
+    "立法會議員"
+  ],
+  "parties_ch": [
+    "香港職工會聯盟",
+    "工黨"
+  ],
+  "email": "yanlee@hkctu.org.hk",
+  "homepage": "http://www.leecheukyan.org",
+  "name_en": "LEE Cheuk-yan",
+  "constituency_en": {
+    "type": "Geographical Constituency",
+    "area": "New Territories West"
+  },
+  "educations_en": [
+    "B. Sc. (Eng.), Department of Civil Engineering, The University of Hong Kong"
+  ],
+  "occupations_en": [
+    "Legislative Council Member"
+  ],
+  "parties_en": [
+    "Hong Kong Confederation of Trade Unions",
+    "Labour Party"
+  ]
+}

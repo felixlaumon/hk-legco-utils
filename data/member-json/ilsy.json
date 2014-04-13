@@ -1,1 +1,40 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/ilsy.jpg","id":"ilsy","name_ch":"葉劉淑儀","constituency_ch":{"type":"地方選區","area":"香港島"},"educations_ch":["香港大學文學學士（一級榮譽）","英國格拉斯哥大學文學碩士","美國史丹福大學管理碩士","美國史丹福大學東亞研究文學碩士"],"occupations_ch":["匯賢智庫理事會主席"],"parties_ch":["新民黨"],"email":"iplau@reginaip.hk","homepage":"http://www.reginaip.hk","name_en":"Mrs Regina IP LAU Suk-yee","constituency_en":{"type":"Geographical Constituency","area":"Hong Kong Island"},"educations_en":["BA. (First Class Honors), The University of Hong Kong","Master of Letters, University of Glasgow","M.Sc (Management), Stanford University","M.A. (East Asian Studies), Stanford University"],"occupations_en":["Chairperson of the Board of Governors, Savantas Policy Institute"],"parties_en":["New People's Party"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/ilsy.jpg",
+  "id": "ilsy",
+  "name_ch": "葉劉淑儀",
+  "constituency_ch": {
+    "type": "地方選區",
+    "area": "香港島"
+  },
+  "educations_ch": [
+    "香港大學文學學士（一級榮譽）",
+    "英國格拉斯哥大學文學碩士",
+    "美國史丹福大學管理碩士",
+    "美國史丹福大學東亞研究文學碩士"
+  ],
+  "occupations_ch": [
+    "匯賢智庫理事會主席"
+  ],
+  "parties_ch": [
+    "新民黨"
+  ],
+  "email": "iplau@reginaip.hk",
+  "homepage": "http://www.reginaip.hk",
+  "name_en": "Mrs Regina IP LAU Suk-yee",
+  "constituency_en": {
+    "type": "Geographical Constituency",
+    "area": "Hong Kong Island"
+  },
+  "educations_en": [
+    "BA. (First Class Honors), The University of Hong Kong",
+    "Master of Letters, University of Glasgow",
+    "M.Sc (Management), Stanford University",
+    "M.A. (East Asian Studies), Stanford University"
+  ],
+  "occupations_en": [
+    "Chairperson of the Board of Governors, Savantas Policy Institute"
+  ],
+  "parties_en": [
+    "New People's Party"
+  ]
+}

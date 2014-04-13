@@ -1,1 +1,36 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/ccc.jpg","id":"ccc","name_ch":"陳志全","constituency_ch":{"type":"地方選區","area":"新界東"},"educations_ch":["香港中文大學社會學系(榮譽)學士"],"occupations_ch":["全職立法會議員"],"parties_ch":["人民力量","前綫"],"email":"slowbeat@gmail.com","homepage":"","name_en":"CHAN Chi-chuen","constituency_en":{"type":"Geographical Constituency","area":"New Territories East"},"educations_en":["Bachelor of Sociology (Hons), Chinese University of Hong Kong"],"occupations_en":["Full-time Legislative Council Member"],"parties_en":["People Power","The Frontier"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/ccc.jpg",
+  "id": "ccc",
+  "name_ch": "陳志全",
+  "constituency_ch": {
+    "type": "地方選區",
+    "area": "新界東"
+  },
+  "educations_ch": [
+    "香港中文大學社會學系(榮譽)學士"
+  ],
+  "occupations_ch": [
+    "全職立法會議員"
+  ],
+  "parties_ch": [
+    "人民力量",
+    "前綫"
+  ],
+  "email": "slowbeat@gmail.com",
+  "homepage": "",
+  "name_en": "CHAN Chi-chuen",
+  "constituency_en": {
+    "type": "Geographical Constituency",
+    "area": "New Territories East"
+  },
+  "educations_en": [
+    "Bachelor of Sociology (Hons), Chinese University of Hong Kong"
+  ],
+  "occupations_en": [
+    "Full-time Legislative Council Member"
+  ],
+  "parties_en": [
+    "People Power",
+    "The Frontier"
+  ]
+}

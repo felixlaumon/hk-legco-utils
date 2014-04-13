@@ -1,1 +1,36 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/cklk.jpg","id":"cklk","name_ch":"陳家洛","constituency_ch":{"type":"地方選區","area":"香港島"},"educations_ch":["香港中文大學政治與行政學系(榮譽)學士","英國牛津大學政治學哲學碩士及哲學博士"],"occupations_ch":["香港浸會大學政治及國際關係學系副教授"],"parties_ch":["公民黨"],"email":"info@chankalok.hk","homepage":"http://www.chankalok.hk","name_en":"Dr Kenneth CHAN Ka-lok","constituency_en":{"type":"Geographical Constituency","area":"Hong Kong Island"},"educations_en":["B. Soc. Sc. (Hons) in Government and Public Administration, Chinese University of Hong Kong","M. Phil &amp; D. Phil in Politics, University of Oxford"],"occupations_en":["Associate Professor, Department of Government and International Studies, Hong Kong Baptist University"],"parties_en":["Civic Party"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/cklk.jpg",
+  "id": "cklk",
+  "name_ch": "陳家洛",
+  "constituency_ch": {
+    "type": "地方選區",
+    "area": "香港島"
+  },
+  "educations_ch": [
+    "香港中文大學政治與行政學系(榮譽)學士",
+    "英國牛津大學政治學哲學碩士及哲學博士"
+  ],
+  "occupations_ch": [
+    "香港浸會大學政治及國際關係學系副教授"
+  ],
+  "parties_ch": [
+    "公民黨"
+  ],
+  "email": "info@chankalok.hk",
+  "homepage": "http://www.chankalok.hk",
+  "name_en": "Dr Kenneth CHAN Ka-lok",
+  "constituency_en": {
+    "type": "Geographical Constituency",
+    "area": "Hong Kong Island"
+  },
+  "educations_en": [
+    "B. Soc. Sc. (Hons) in Government and Public Administration, Chinese University of Hong Kong",
+    "M. Phil &amp; D. Phil in Politics, University of Oxford"
+  ],
+  "occupations_en": [
+    "Associate Professor, Department of Government and International Studies, Hong Kong Baptist University"
+  ],
+  "parties_en": [
+    "Civic Party"
+  ]
+}

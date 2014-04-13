@@ -1,1 +1,36 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/tks.jpg","id":"tks","name_ch":"涂謹申","constituency_ch":{"type":"功能界別","area":"區議會(第二)"},"educations_ch":["香港大學法學士","執業律師"],"occupations_ch":["律師"],"parties_ch":["民主黨"],"email":"jkstolegco@gmail.com","homepage":"http://www.tokunsun.org.hk","name_en":"James TO Kun-sun","constituency_en":{"type":"Functional Constituency","area":"District Council (Second)"},"educations_en":["LL. B., The University of Hong Kong","Solicitor of Hong Kong Court"],"occupations_en":["Solicitor"],"parties_en":["Democratic Party"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/tks.jpg",
+  "id": "tks",
+  "name_ch": "涂謹申",
+  "constituency_ch": {
+    "type": "功能界別",
+    "area": "區議會(第二)"
+  },
+  "educations_ch": [
+    "香港大學法學士",
+    "執業律師"
+  ],
+  "occupations_ch": [
+    "律師"
+  ],
+  "parties_ch": [
+    "民主黨"
+  ],
+  "email": "jkstolegco@gmail.com",
+  "homepage": "http://www.tokunsun.org.hk",
+  "name_en": "James TO Kun-sun",
+  "constituency_en": {
+    "type": "Functional Constituency",
+    "area": "District Council (Second)"
+  },
+  "educations_en": [
+    "LL. B., The University of Hong Kong",
+    "Solicitor of Hong Kong Court"
+  ],
+  "occupations_en": [
+    "Solicitor"
+  ],
+  "parties_en": [
+    "Democratic Party"
+  ]
+}

@@ -1,1 +1,38 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/lkl.jpg","id":"lkl","name_ch":"梁家騮","constituency_ch":{"type":"功能界別","area":"醫學界"},"educations_ch":["香港中文大學內外全科醫學士","英國愛丁堡皇家外科醫學院院士","香港外科醫學院院士","香港醫學專科學院院士（外科）","香港中文大學醫學博士"],"occupations_ch":["醫生"],"parties_ch":[],"email":"leungkl@leungkl.org","homepage":"http://www.leungkl.org","name_en":"Dr LEUNG Ka-lau","constituency_en":{"type":"Functional Constituency","area":"Medical"},"educations_en":["MBChB (CUHK)","FRCS (Edin)","FCSHK","FHKAM (Surgery)","MD (CUHK)"],"occupations_en":["Doctor"],"parties_en":[]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/lkl.jpg",
+  "id": "lkl",
+  "name_ch": "梁家騮",
+  "constituency_ch": {
+    "type": "功能界別",
+    "area": "醫學界"
+  },
+  "educations_ch": [
+    "香港中文大學內外全科醫學士",
+    "英國愛丁堡皇家外科醫學院院士",
+    "香港外科醫學院院士",
+    "香港醫學專科學院院士（外科）",
+    "香港中文大學醫學博士"
+  ],
+  "occupations_ch": [
+    "醫生"
+  ],
+  "parties_ch": [],
+  "email": "leungkl@leungkl.org",
+  "homepage": "http://www.leungkl.org",
+  "name_en": "Dr LEUNG Ka-lau",
+  "constituency_en": {
+    "type": "Functional Constituency",
+    "area": "Medical"
+  },
+  "educations_en": [
+    "MBChB (CUHK)",
+    "FRCS (Edin)",
+    "FCSHK",
+    "FHKAM (Surgery)",
+    "MD (CUHK)"
+  ],
+  "occupations_en": [
+    "Doctor"
+  ],
+  "parties_en": []
+}

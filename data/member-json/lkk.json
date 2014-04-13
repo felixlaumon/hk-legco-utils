@@ -1,1 +1,40 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/lkk.jpg","id":"lkk","name_ch":"梁家傑","constituency_ch":{"type":"地方選區","area":"九龍東"},"educations_ch":["香港大學法律學士（1982）","英國劍橋大學法律碩士（1984）","香港執業大律師（1983）","資深大律師（1998）"],"occupations_ch":["資深大律師"],"parties_ch":["公民黨"],"email":"contact@alanleong.net","homepage":"http://www.alanleong.com","name_en":"Alan LEONG Kah-kit","constituency_en":{"type":"Geographical Constituency","area":"Kowloon East"},"educations_en":["LL.B., The University of Hong Kong (1982)","LL.M., University of Cambridge (1984)","Called to the Hong Kong Bar (1983)","Called to the Inner Bar (1998)"],"occupations_en":["Senior Counsel"],"parties_en":["Civic Party"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/lkk.jpg",
+  "id": "lkk",
+  "name_ch": "梁家傑",
+  "constituency_ch": {
+    "type": "地方選區",
+    "area": "九龍東"
+  },
+  "educations_ch": [
+    "香港大學法律學士（1982）",
+    "英國劍橋大學法律碩士（1984）",
+    "香港執業大律師（1983）",
+    "資深大律師（1998）"
+  ],
+  "occupations_ch": [
+    "資深大律師"
+  ],
+  "parties_ch": [
+    "公民黨"
+  ],
+  "email": "contact@alanleong.net",
+  "homepage": "http://www.alanleong.com",
+  "name_en": "Alan LEONG Kah-kit",
+  "constituency_en": {
+    "type": "Geographical Constituency",
+    "area": "Kowloon East"
+  },
+  "educations_en": [
+    "LL.B., The University of Hong Kong (1982)",
+    "LL.M., University of Cambridge (1984)",
+    "Called to the Hong Kong Bar (1983)",
+    "Called to the Inner Bar (1998)"
+  ],
+  "occupations_en": [
+    "Senior Counsel"
+  ],
+  "parties_en": [
+    "Civic Party"
+  ]
+}

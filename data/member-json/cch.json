@@ -1,1 +1,36 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/cch.jpg","id":"cch","name_ch":"張超雄","constituency_ch":{"type":"地方選區","area":"新界東"},"educations_ch":["博士","註冊社工"],"occupations_ch":["大學講師"],"parties_ch":["工黨"],"email":"info@cheungchiuhung.org.hk","homepage":"http://www.cheungchiuhung.org.hk","name_en":"Dr Fernando CHEUNG Chiu-hung","constituency_en":{"type":"Geographical Constituency","area":"New Territories East"},"educations_en":["Ph.D.","Registered Social Worker"],"occupations_en":["Lecturer"],"parties_en":["Labour Party"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/cch.jpg",
+  "id": "cch",
+  "name_ch": "張超雄",
+  "constituency_ch": {
+    "type": "地方選區",
+    "area": "新界東"
+  },
+  "educations_ch": [
+    "博士",
+    "註冊社工"
+  ],
+  "occupations_ch": [
+    "大學講師"
+  ],
+  "parties_ch": [
+    "工黨"
+  ],
+  "email": "info@cheungchiuhung.org.hk",
+  "homepage": "http://www.cheungchiuhung.org.hk",
+  "name_en": "Dr Fernando CHEUNG Chiu-hung",
+  "constituency_en": {
+    "type": "Geographical Constituency",
+    "area": "New Territories East"
+  },
+  "educations_en": [
+    "Ph.D.",
+    "Registered Social Worker"
+  ],
+  "occupations_en": [
+    "Lecturer"
+  ],
+  "parties_en": [
+    "Labour Party"
+  ]
+}

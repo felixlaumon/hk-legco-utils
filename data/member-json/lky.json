@@ -1,1 +1,42 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/lky.jpg","id":"lky","name_ch":"梁君彥","constituency_ch":{"type":"功能界別","area":"工業界（第一）"},"educations_ch":["英國利茲大學榮譽學士","紡織學會資深會員","製衣業及鞋類學會資深會員","英國考文垂大學工商管理榮譽博士"],"occupations_ch":["商人"],"parties_ch":["經濟動力","香港經濟民生聯盟"],"email":"andrewleunglegco@outlook.com","homepage":"http://www.andrewkyleung.com","name_en":"Andrew LEUNG Kwan-yuen","constituency_en":{"type":"Functional Constituency","area":"Industrial (First)"},"educations_en":["BSc (Hon), Leeds University","Fellow, Textiles Institute","Fellow, Clothing and Footwear Institute","Honorary Doctor of Business Administration, Coventry University, UK"],"occupations_en":["Merchant"],"parties_en":["Economic Synergy","Business and Professionals Alliance for Hong Kong"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/lky.jpg",
+  "id": "lky",
+  "name_ch": "梁君彥",
+  "constituency_ch": {
+    "type": "功能界別",
+    "area": "工業界（第一）"
+  },
+  "educations_ch": [
+    "英國利茲大學榮譽學士",
+    "紡織學會資深會員",
+    "製衣業及鞋類學會資深會員",
+    "英國考文垂大學工商管理榮譽博士"
+  ],
+  "occupations_ch": [
+    "商人"
+  ],
+  "parties_ch": [
+    "經濟動力",
+    "香港經濟民生聯盟"
+  ],
+  "email": "andrewleunglegco@outlook.com",
+  "homepage": "http://www.andrewkyleung.com",
+  "name_en": "Andrew LEUNG Kwan-yuen",
+  "constituency_en": {
+    "type": "Functional Constituency",
+    "area": "Industrial (First)"
+  },
+  "educations_en": [
+    "BSc (Hon), Leeds University",
+    "Fellow, Textiles Institute",
+    "Fellow, Clothing and Footwear Institute",
+    "Honorary Doctor of Business Administration, Coventry University, UK"
+  ],
+  "occupations_en": [
+    "Merchant"
+  ],
+  "parties_en": [
+    "Economic Synergy",
+    "Business and Professionals Alliance for Hong Kong"
+  ]
+}

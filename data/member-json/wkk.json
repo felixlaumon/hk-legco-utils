@@ -1,1 +1,38 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/wkk.jpg","id":"wkk","name_ch":"黃國健","constituency_ch":{"type":"地方選區","area":"九龍東"},"educations_ch":["上海海運學院國際航運管理課程証書（1994年1月至1996年11月）","廣東行政學院現代管理專業課程証書（1998年）","中國工運學院社會工作（工會）專業函授課程証書（2000年3月至2003年1月）"],"occupations_ch":["工會工作者"],"parties_ch":["香港工會聯合會"],"email":"kkwong@ftulegco.org.hk","homepage":"http://www.ftulegco.org.hk","name_en":"WONG Kwok-kin","constituency_en":{"type":"Geographical Constituency","area":"Kowloon East"},"educations_en":["Post Experience Diploma in International Shipping Management, Shanghai Maritime University (1/1994 - 11/1996)","廣東行政學院現代管理專業課程証書（1998年）","Certificate of Trade Unions Relative, China Institute of Industrial Relations (3/2000 - 1/2003)"],"occupations_en":["Trade Union Worker"],"parties_en":["The Hong Kong Federation of Trade Unions"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/wkk.jpg",
+  "id": "wkk",
+  "name_ch": "黃國健",
+  "constituency_ch": {
+    "type": "地方選區",
+    "area": "九龍東"
+  },
+  "educations_ch": [
+    "上海海運學院國際航運管理課程証書（1994年1月至1996年11月）",
+    "廣東行政學院現代管理專業課程証書（1998年）",
+    "中國工運學院社會工作（工會）專業函授課程証書（2000年3月至2003年1月）"
+  ],
+  "occupations_ch": [
+    "工會工作者"
+  ],
+  "parties_ch": [
+    "香港工會聯合會"
+  ],
+  "email": "kkwong@ftulegco.org.hk",
+  "homepage": "http://www.ftulegco.org.hk",
+  "name_en": "WONG Kwok-kin",
+  "constituency_en": {
+    "type": "Geographical Constituency",
+    "area": "Kowloon East"
+  },
+  "educations_en": [
+    "Post Experience Diploma in International Shipping Management, Shanghai Maritime University (1/1994 - 11/1996)",
+    "廣東行政學院現代管理專業課程証書（1998年）",
+    "Certificate of Trade Unions Relative, China Institute of Industrial Relations (3/2000 - 1/2003)"
+  ],
+  "occupations_en": [
+    "Trade Union Worker"
+  ],
+  "parties_en": [
+    "The Hong Kong Federation of Trade Unions"
+  ]
+}

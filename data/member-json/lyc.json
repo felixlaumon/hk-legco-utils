@@ -1,1 +1,36 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/lyc.jpg","id":"lyc","name_ch":"梁耀忠","constituency_ch":{"type":"地方選區","area":"新界西"},"educations_ch":["英國艾克色斯大學文學士（榮譽）","香港大學教育文憑"],"occupations_ch":["全職立法會議員"],"parties_ch":["街坊工友服務處"],"email":"leungyc5@gmail.com","homepage":"http://www.nwsc.org.hk","name_en":"LEUNG Yiu-chung","constituency_en":{"type":"Geographical Constituency","area":"New Territories West"},"educations_en":["B.A. (Hons.), University of Essex, UK","Post-graduate Certificate in Education, The University of Hong Kong"],"occupations_en":["Full-time Legislative Council Member"],"parties_en":["Neighbourhood and Worker’s Service Centre"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/lyc.jpg",
+  "id": "lyc",
+  "name_ch": "梁耀忠",
+  "constituency_ch": {
+    "type": "地方選區",
+    "area": "新界西"
+  },
+  "educations_ch": [
+    "英國艾克色斯大學文學士（榮譽）",
+    "香港大學教育文憑"
+  ],
+  "occupations_ch": [
+    "全職立法會議員"
+  ],
+  "parties_ch": [
+    "街坊工友服務處"
+  ],
+  "email": "leungyc5@gmail.com",
+  "homepage": "http://www.nwsc.org.hk",
+  "name_en": "LEUNG Yiu-chung",
+  "constituency_en": {
+    "type": "Geographical Constituency",
+    "area": "New Territories West"
+  },
+  "educations_en": [
+    "B.A. (Hons.), University of Essex, UK",
+    "Post-graduate Certificate in Education, The University of Hong Kong"
+  ],
+  "occupations_en": [
+    "Full-time Legislative Council Member"
+  ],
+  "parties_en": [
+    "Neighbourhood and Worker’s Service Centre"
+  ]
+}

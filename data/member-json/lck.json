@@ -1,1 +1,38 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/lck.jpg","id":"lck","name_ch":"廖長江","constituency_ch":{"type":"功能界別","area":"商界(第二)"},"educations_ch":["經濟學士(榮譽)","法學碩士","英格蘭及威爾斯大律師","香港大律師","星加坡訟務及事務律師"],"occupations_ch":["大律師"],"parties_ch":[],"email":"legco.office.liao@gmail.com","homepage":"","name_en":"Martin LIAO Cheung-kong","constituency_en":{"type":"Functional Constituency","area":"Commercial (Second)"},"educations_en":["B.Sc. (Econ) (Hon.)","LL.M","Barrister, England and Wales","Barrister, Hong Kong","Advocate and Solicitor, Singapore"],"occupations_en":["Barrister-at-law"],"parties_en":[]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/lck.jpg",
+  "id": "lck",
+  "name_ch": "廖長江",
+  "constituency_ch": {
+    "type": "功能界別",
+    "area": "商界(第二)"
+  },
+  "educations_ch": [
+    "經濟學士(榮譽)",
+    "法學碩士",
+    "英格蘭及威爾斯大律師",
+    "香港大律師",
+    "星加坡訟務及事務律師"
+  ],
+  "occupations_ch": [
+    "大律師"
+  ],
+  "parties_ch": [],
+  "email": "legco.office.liao@gmail.com",
+  "homepage": "",
+  "name_en": "Martin LIAO Cheung-kong",
+  "constituency_en": {
+    "type": "Functional Constituency",
+    "area": "Commercial (Second)"
+  },
+  "educations_en": [
+    "B.Sc. (Econ) (Hon.)",
+    "LL.M",
+    "Barrister, England and Wales",
+    "Barrister, Hong Kong",
+    "Advocate and Solicitor, Singapore"
+  ],
+  "occupations_en": [
+    "Barrister-at-law"
+  ],
+  "parties_en": []
+}

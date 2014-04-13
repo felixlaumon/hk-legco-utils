@@ -1,1 +1,42 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/wkh.jpg","id":"wkh","name_ch":"王國興","constituency_ch":{"type":"地方選區","area":"香港島"},"educations_ch":["暨南大學社會學本科學位文學士","香港大學專業進修學院社會行政學文憑","香港大學專業進修學院終身學習傑出學員獎（9/2001）","香港大學專業進修學院校友會、香港大學專業進修學院傑出校友（11/2009）"],"occupations_ch":["作家","香港工會聯合會港島辦事處主任"],"parties_ch":["香港工會聯合會"],"email":"khwong@ftulegco.org.hk","homepage":"http://www.ftulegco.org.hk","name_en":"WONG Kwok-hing","constituency_en":{"type":"Geographical Constituency","area":"Hong Kong Island"},"educations_en":["BA of Sociology of Jinan University","Diploma of Social Administration of HKU School of Professional and Continuing Education","Outstanding Lifelong Learner Award of HKU School of Professional and Continuing Education (9/2001)","HKU SPACE ALUMNI, HKU School of Professional and Continuing Education Distinguished Alumni (11/2009)"],"occupations_en":["Writer","Director, Hong Kong Island Office, The Hong Kong Federation of Trade Unions"],"parties_en":["The Hong Kong Federation of Trade Unions"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/wkh.jpg",
+  "id": "wkh",
+  "name_ch": "王國興",
+  "constituency_ch": {
+    "type": "地方選區",
+    "area": "香港島"
+  },
+  "educations_ch": [
+    "暨南大學社會學本科學位文學士",
+    "香港大學專業進修學院社會行政學文憑",
+    "香港大學專業進修學院終身學習傑出學員獎（9/2001）",
+    "香港大學專業進修學院校友會、香港大學專業進修學院傑出校友（11/2009）"
+  ],
+  "occupations_ch": [
+    "作家",
+    "香港工會聯合會港島辦事處主任"
+  ],
+  "parties_ch": [
+    "香港工會聯合會"
+  ],
+  "email": "khwong@ftulegco.org.hk",
+  "homepage": "http://www.ftulegco.org.hk",
+  "name_en": "WONG Kwok-hing",
+  "constituency_en": {
+    "type": "Geographical Constituency",
+    "area": "Hong Kong Island"
+  },
+  "educations_en": [
+    "BA of Sociology of Jinan University",
+    "Diploma of Social Administration of HKU School of Professional and Continuing Education",
+    "Outstanding Lifelong Learner Award of HKU School of Professional and Continuing Education (9/2001)",
+    "HKU SPACE ALUMNI, HKU School of Professional and Continuing Education Distinguished Alumni (11/2009)"
+  ],
+  "occupations_en": [
+    "Writer",
+    "Director, Hong Kong Island Office, The Hong Kong Federation of Trade Unions"
+  ],
+  "parties_en": [
+    "The Hong Kong Federation of Trade Unions"
+  ]
+}

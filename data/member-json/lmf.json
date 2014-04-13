@@ -1,1 +1,50 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/lmf.jpg","id":"lmf","name_ch":"梁美芬","constituency_ch":{"type":"地方選區","area":"九龍西"},"educations_ch":["香港執業大律師","中國國際經濟貿易仲裁委員會仲裁員","域名專家","香港大學PCLL","英國Manchester Metropolitan University (CPE)","香港中文大學BSSc","中國人民大學法學碩士及博士"],"occupations_ch":["香港城市大學法學院副教授","香港執業大律師"],"parties_ch":["香港經濟民生聯盟","專業會議"],"email":"priscilla@lmf.hk","homepage":"http://www.facebook.com/leungmeifun","name_en":"Dr Priscilla LEUNG Mei-fun","constituency_en":{"type":"Geographical Constituency","area":"Kowloon West"},"educations_en":["Barrister-at-law (Hong Kong)","Arbitrator, China International Economic and Trade Arbitration Commission","Domain Name Specialist","PCLL (HKU)","CPE (MMU)","BSSc (CUHK)","JSD &amp; LLM (Renmin University of PRC)"],"occupations_en":["Associate Professor, Law School, City University of Hong Kong","Barrister-at-law (Hong Kong)"],"parties_en":["Business and Professionals Alliance for Hong Kong","The Professionals Forum"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/lmf.jpg",
+  "id": "lmf",
+  "name_ch": "梁美芬",
+  "constituency_ch": {
+    "type": "地方選區",
+    "area": "九龍西"
+  },
+  "educations_ch": [
+    "香港執業大律師",
+    "中國國際經濟貿易仲裁委員會仲裁員",
+    "域名專家",
+    "香港大學PCLL",
+    "英國Manchester Metropolitan University (CPE)",
+    "香港中文大學BSSc",
+    "中國人民大學法學碩士及博士"
+  ],
+  "occupations_ch": [
+    "香港城市大學法學院副教授",
+    "香港執業大律師"
+  ],
+  "parties_ch": [
+    "香港經濟民生聯盟",
+    "專業會議"
+  ],
+  "email": "priscilla@lmf.hk",
+  "homepage": "http://www.facebook.com/leungmeifun",
+  "name_en": "Dr Priscilla LEUNG Mei-fun",
+  "constituency_en": {
+    "type": "Geographical Constituency",
+    "area": "Kowloon West"
+  },
+  "educations_en": [
+    "Barrister-at-law (Hong Kong)",
+    "Arbitrator, China International Economic and Trade Arbitration Commission",
+    "Domain Name Specialist",
+    "PCLL (HKU)",
+    "CPE (MMU)",
+    "BSSc (CUHK)",
+    "JSD &amp; LLM (Renmin University of PRC)"
+  ],
+  "occupations_en": [
+    "Associate Professor, Law School, City University of Hong Kong",
+    "Barrister-at-law (Hong Kong)"
+  ],
+  "parties_en": [
+    "Business and Professionals Alliance for Hong Kong",
+    "The Professionals Forum"
+  ]
+}

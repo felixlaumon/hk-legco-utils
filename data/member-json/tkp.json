@@ -1,1 +1,38 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/tkp.jpg","id":"tkp","name_ch":"鄧家彪","constituency_ch":{"type":"功能界別","area":"勞工界"},"educations_ch":["香港中文大學社會科學碩士","香港中文大學社會科學院榮譽學士","註冊社工"],"occupations_ch":["服務機構社工"],"parties_ch":["香港工會聯合會"],"email":"","homepage":"","name_en":"TANG Ka-piu","constituency_en":{"type":"Functional Constituency","area":"Labour"},"educations_en":["Master of Social Science, Chinese University of Hong Kong","Bachelor of Social Science, Chinese University of Hong Kong","Registered Social Worker"],"occupations_en":["Social Worker"],"parties_en":["The Hong Kong Federation of Trade Unions"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/tkp.jpg",
+  "id": "tkp",
+  "name_ch": "鄧家彪",
+  "constituency_ch": {
+    "type": "功能界別",
+    "area": "勞工界"
+  },
+  "educations_ch": [
+    "香港中文大學社會科學碩士",
+    "香港中文大學社會科學院榮譽學士",
+    "註冊社工"
+  ],
+  "occupations_ch": [
+    "服務機構社工"
+  ],
+  "parties_ch": [
+    "香港工會聯合會"
+  ],
+  "email": "",
+  "homepage": "",
+  "name_en": "TANG Ka-piu",
+  "constituency_en": {
+    "type": "Functional Constituency",
+    "area": "Labour"
+  },
+  "educations_en": [
+    "Master of Social Science, Chinese University of Hong Kong",
+    "Bachelor of Social Science, Chinese University of Hong Kong",
+    "Registered Social Worker"
+  ],
+  "occupations_en": [
+    "Social Worker"
+  ],
+  "parties_en": [
+    "The Hong Kong Federation of Trade Unions"
+  ]
+}

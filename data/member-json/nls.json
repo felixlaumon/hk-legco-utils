@@ -1,1 +1,40 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/nls.jpg","id":"nls","name_ch":"吳亮星","constituency_ch":{"type":"功能界別","area":"金融界"},"educations_ch":["香島中學","澳門東亞大學研究院","香港金融管理局銀行業務諮詢委員會委員","教育局銀行業行業培訓諮詢委員會主席","香港銀行華員會名譽會長","香港金融業志同會有限公司名譽顧問"],"occupations_ch":["銀行家(中國銀行(香港)信託有限公司董事長及集友銀行有限公司副董事長)"],"parties_ch":[],"email":"lsngoffice2012@gmail.com","homepage":"","name_en":"NG Leung-sing","constituency_en":{"type":"Functional Constituency","area":"Finance"},"educations_en":["Heung To Middle School","Graduate College, University of East Asia, Macau","Member of the Banking Advisory Committee of the Hong Kong Monetary Authority","Chairperson of Banking Industry Training Advisory Committee","Honorary President of Chinese Bankers Club, Hong Kong","Honorary Advisor of The Hong Kong Chi Tung Association Ltd"],"occupations_en":["Banker (Chairman, Bank of China (Hong Kong) Trustees Limited and Vice-Chairman, Chiyu Banking Corporation Limited)"],"parties_en":[]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/nls.jpg",
+  "id": "nls",
+  "name_ch": "吳亮星",
+  "constituency_ch": {
+    "type": "功能界別",
+    "area": "金融界"
+  },
+  "educations_ch": [
+    "香島中學",
+    "澳門東亞大學研究院",
+    "香港金融管理局銀行業務諮詢委員會委員",
+    "教育局銀行業行業培訓諮詢委員會主席",
+    "香港銀行華員會名譽會長",
+    "香港金融業志同會有限公司名譽顧問"
+  ],
+  "occupations_ch": [
+    "銀行家(中國銀行(香港)信託有限公司董事長及集友銀行有限公司副董事長)"
+  ],
+  "parties_ch": [],
+  "email": "lsngoffice2012@gmail.com",
+  "homepage": "",
+  "name_en": "NG Leung-sing",
+  "constituency_en": {
+    "type": "Functional Constituency",
+    "area": "Finance"
+  },
+  "educations_en": [
+    "Heung To Middle School",
+    "Graduate College, University of East Asia, Macau",
+    "Member of the Banking Advisory Committee of the Hong Kong Monetary Authority",
+    "Chairperson of Banking Industry Training Advisory Committee",
+    "Honorary President of Chinese Bankers Club, Hong Kong",
+    "Honorary Advisor of The Hong Kong Chi Tung Association Ltd"
+  ],
+  "occupations_en": [
+    "Banker (Chairman, Bank of China (Hong Kong) Trustees Limited and Vice-Chairman, Chiyu Banking Corporation Limited)"
+  ],
+  "parties_en": []
+}

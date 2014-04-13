@@ -1,1 +1,32 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/wym.jpg","id":"wym","name_ch":"黃毓民","constituency_ch":{"type":"地方選區","area":"九龍西"},"educations_ch":["珠海學院歷史研究所碩士","珠海學院新聞及傳播學系專科教授兼學系主任(1988-1992)"],"occupations_ch":["普羅政治學苑有限公司主席"],"parties_ch":[],"email":"ymwongopinion@gmail.com","homepage":"http://www.yukman.hk","name_en":"WONG Yuk-man","constituency_en":{"type":"Geographical Constituency","area":"Kowloon West"},"educations_en":["Master of Arts in Chinese History, Chu Hai College","Dean and Professor of Journalism &amp; Communication Department, Chu Hai College (1988-1992)"],"occupations_en":["Chairman, Proletariat Political Institute Company Limited"],"parties_en":[]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/wym.jpg",
+  "id": "wym",
+  "name_ch": "黃毓民",
+  "constituency_ch": {
+    "type": "地方選區",
+    "area": "九龍西"
+  },
+  "educations_ch": [
+    "珠海學院歷史研究所碩士",
+    "珠海學院新聞及傳播學系專科教授兼學系主任(1988-1992)"
+  ],
+  "occupations_ch": [
+    "普羅政治學苑有限公司主席"
+  ],
+  "parties_ch": [],
+  "email": "ymwongopinion@gmail.com",
+  "homepage": "http://www.yukman.hk",
+  "name_en": "WONG Yuk-man",
+  "constituency_en": {
+    "type": "Geographical Constituency",
+    "area": "Kowloon West"
+  },
+  "educations_en": [
+    "Master of Arts in Chinese History, Chu Hai College",
+    "Dean and Professor of Journalism &amp; Communication Department, Chu Hai College (1988-1992)"
+  ],
+  "occupations_en": [
+    "Chairman, Proletariat Political Institute Company Limited"
+  ],
+  "parties_en": []
+}

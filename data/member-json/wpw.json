@@ -1,1 +1,40 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/wpw.jpg","id":"wpw","name_ch":"黃碧雲","constituency_ch":{"type":"地方選區","area":"九龍西"},"educations_ch":["香港中文大學宗教研究文學士","香港中文大學政治及公共行政哲學碩士","美國洛衫磯加州大學政治科學文學碩士","美國洛衫磯加州大學政治科學哲學博士"],"occupations_ch":["香港理工大學講師"],"parties_ch":["民主黨"],"email":"helenawonghk@gmail.com","homepage":"http://wongpikwan.hk","name_en":"Dr Helena WONG Pik-wan","constituency_en":{"type":"Geographical Constituency","area":"Kowloon West"},"educations_en":["B.A. (Religious Studies), Chinese University of Hong Kong","M.Phil. (Government and Public Administration), Chinese University of Hong Kong","M.A. (Political Science), University of California at Los Angeles, USA","Ph.D. (Political Science), University of California at Los Angeles, USA"],"occupations_en":["Lecturer, Hong Kong Polytechnic University"],"parties_en":["Democratic Party"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/wpw.jpg",
+  "id": "wpw",
+  "name_ch": "黃碧雲",
+  "constituency_ch": {
+    "type": "地方選區",
+    "area": "九龍西"
+  },
+  "educations_ch": [
+    "香港中文大學宗教研究文學士",
+    "香港中文大學政治及公共行政哲學碩士",
+    "美國洛衫磯加州大學政治科學文學碩士",
+    "美國洛衫磯加州大學政治科學哲學博士"
+  ],
+  "occupations_ch": [
+    "香港理工大學講師"
+  ],
+  "parties_ch": [
+    "民主黨"
+  ],
+  "email": "helenawonghk@gmail.com",
+  "homepage": "http://wongpikwan.hk",
+  "name_en": "Dr Helena WONG Pik-wan",
+  "constituency_en": {
+    "type": "Geographical Constituency",
+    "area": "Kowloon West"
+  },
+  "educations_en": [
+    "B.A. (Religious Studies), Chinese University of Hong Kong",
+    "M.Phil. (Government and Public Administration), Chinese University of Hong Kong",
+    "M.A. (Political Science), University of California at Los Angeles, USA",
+    "Ph.D. (Political Science), University of California at Los Angeles, USA"
+  ],
+  "occupations_en": [
+    "Lecturer, Hong Kong Polytechnic University"
+  ],
+  "parties_en": [
+    "Democratic Party"
+  ]
+}

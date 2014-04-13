@@ -1,1 +1,30 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/ysw.jpg","id":"ysw","name_ch":"姚思榮","constituency_ch":{"type":"功能界別","area":"旅遊界"},"educations_ch":["預科畢業"],"occupations_ch":["旅行社副董事長"],"parties_ch":[],"email":"ysw@yiusiwing.com","homepage":"http://www.yiusiwing.com","name_en":"YIU Si-wing","constituency_en":{"type":"Functional Constituency","area":"Tourism"},"educations_en":["Matriculated"],"occupations_en":["Travel Agency Vice-Chairman"],"parties_en":[]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/ysw.jpg",
+  "id": "ysw",
+  "name_ch": "姚思榮",
+  "constituency_ch": {
+    "type": "功能界別",
+    "area": "旅遊界"
+  },
+  "educations_ch": [
+    "預科畢業"
+  ],
+  "occupations_ch": [
+    "旅行社副董事長"
+  ],
+  "parties_ch": [],
+  "email": "ysw@yiusiwing.com",
+  "homepage": "http://www.yiusiwing.com",
+  "name_en": "YIU Si-wing",
+  "constituency_en": {
+    "type": "Functional Constituency",
+    "area": "Tourism"
+  },
+  "educations_en": [
+    "Matriculated"
+  ],
+  "occupations_en": [
+    "Travel Agency Vice-Chairman"
+  ],
+  "parties_en": []
+}

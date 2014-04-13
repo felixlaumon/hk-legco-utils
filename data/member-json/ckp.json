@@ -1,1 +1,36 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/ckp.jpg","id":"ckp","name_ch":"陳健波","constituency_ch":{"type":"功能界別","area":"保險界"},"educations_ch":["伍華書院","英國特許保險學會會士","英國特許保險學會特許承保人"],"occupations_ch":["立法會議員","Member of the Munich Re China Advisory Board"],"parties_ch":[],"email":"kp@kpchan.com","homepage":"http://www.kpchan.com","name_en":"CHAN Kin-por","constituency_en":{"type":"Functional Constituency","area":"Insurance"},"educations_en":["Ng Wah College","Associate of The Chartered Insurance Institute","Chartered Insurer of The Chartered Insurance Institute"],"occupations_en":["Legislative Council Member","Member of the Munich Re China Advisory Board"],"parties_en":[]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/ckp.jpg",
+  "id": "ckp",
+  "name_ch": "陳健波",
+  "constituency_ch": {
+    "type": "功能界別",
+    "area": "保險界"
+  },
+  "educations_ch": [
+    "伍華書院",
+    "英國特許保險學會會士",
+    "英國特許保險學會特許承保人"
+  ],
+  "occupations_ch": [
+    "立法會議員",
+    "Member of the Munich Re China Advisory Board"
+  ],
+  "parties_ch": [],
+  "email": "kp@kpchan.com",
+  "homepage": "http://www.kpchan.com",
+  "name_en": "CHAN Kin-por",
+  "constituency_en": {
+    "type": "Functional Constituency",
+    "area": "Insurance"
+  },
+  "educations_en": [
+    "Ng Wah College",
+    "Associate of The Chartered Insurance Institute",
+    "Chartered Insurer of The Chartered Insurance Institute"
+  ],
+  "occupations_en": [
+    "Legislative Council Member",
+    "Member of the Munich Re China Advisory Board"
+  ],
+  "parties_en": []
+}

@@ -1,1 +1,36 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/mmk.jpg","id":"mmk","name_ch":"麥美娟","constituency_ch":{"type":"地方選區","area":"新界西"},"educations_ch":["文學士"],"occupations_ch":["立法會議員","葵青區議會議員"],"parties_ch":["香港工會聯合會"],"email":"amlegco@gmail.com","homepage":"","name_en":"Alice MAK Mei-kuen","constituency_en":{"type":"Geographical Constituency","area":"New Territories West"},"educations_en":["Bachelor of Arts"],"occupations_en":["Legislative Council Member","Kwai Tsing District Council member"],"parties_en":["The Hong Kong Federation of Trade Unions"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/mmk.jpg",
+  "id": "mmk",
+  "name_ch": "麥美娟",
+  "constituency_ch": {
+    "type": "地方選區",
+    "area": "新界西"
+  },
+  "educations_ch": [
+    "文學士"
+  ],
+  "occupations_ch": [
+    "立法會議員",
+    "葵青區議會議員"
+  ],
+  "parties_ch": [
+    "香港工會聯合會"
+  ],
+  "email": "amlegco@gmail.com",
+  "homepage": "",
+  "name_en": "Alice MAK Mei-kuen",
+  "constituency_en": {
+    "type": "Geographical Constituency",
+    "area": "New Territories West"
+  },
+  "educations_en": [
+    "Bachelor of Arts"
+  ],
+  "occupations_en": [
+    "Legislative Council Member",
+    "Kwai Tsing District Council member"
+  ],
+  "parties_en": [
+    "The Hong Kong Federation of Trade Unions"
+  ]
+}

@@ -1,1 +1,36 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/wcw.jpg","id":"wcw","name_ch":"胡志偉","constituency_ch":{"type":"地方選區","area":"九龍東"},"educations_ch":["經濟學碩士"],"occupations_ch":["立法會議員","黃大仙區議會議員"],"parties_ch":["民主黨"],"email":"chiwaioffice@gmail.com","homepage":"","name_en":"WU Chi-wai","constituency_en":{"type":"Geographical Constituency","area":"Kowloon East"},"educations_en":["Master of Economics"],"occupations_en":["Legislative Council Member","Wong Tai Sin District Council member"],"parties_en":["Democratic Party"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/wcw.jpg",
+  "id": "wcw",
+  "name_ch": "胡志偉",
+  "constituency_ch": {
+    "type": "地方選區",
+    "area": "九龍東"
+  },
+  "educations_ch": [
+    "經濟學碩士"
+  ],
+  "occupations_ch": [
+    "立法會議員",
+    "黃大仙區議會議員"
+  ],
+  "parties_ch": [
+    "民主黨"
+  ],
+  "email": "chiwaioffice@gmail.com",
+  "homepage": "",
+  "name_en": "WU Chi-wai",
+  "constituency_en": {
+    "type": "Geographical Constituency",
+    "area": "Kowloon East"
+  },
+  "educations_en": [
+    "Master of Economics"
+  ],
+  "occupations_en": [
+    "Legislative Council Member",
+    "Wong Tai Sin District Council member"
+  ],
+  "parties_en": [
+    "Democratic Party"
+  ]
+}

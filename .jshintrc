@@ -3,7 +3,6 @@
   "eqeqeq": true,
   "strict": true,
   "undef": true,
-  "unused": true,
   "quotmark": "single",
   "noarg": true,
   "trailing": true,

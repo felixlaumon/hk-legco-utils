@@ -143,14 +143,14 @@ function saveMember (member, cb) {
   var yr = this.yr;
   var dir = './data/member-json/';
   mkdirp.sync(dir);
-  fs.writeFile(dir + member.id + '.json', JSON.stringify(member), cb);
+  fs.writeFile(dir + member.id + '.json', JSON.stringify(member, null, 2), cb);
 }
 
 function saveMembers (biography_page, cb) {
   // Save everyone to all.json
   var dir = './data/member-json/';
   mkdirp.sync(dir);
-  fs.writeFile(dir + 'all.json', JSON.stringify(biography_page.members));
+  fs.writeFile(dir + 'all.json', JSON.stringify(biography_page.members, null, 2));
 
   async.map(biography_page.members, saveMember.bind(biography_page), function (err) {
     if (err) { return cb(err); }

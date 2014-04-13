@@ -1,1 +1,36 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/kd.jpg","id":"kd","name_ch":"郭榮鏗","constituency_ch":{"type":"功能界別","area":"法律界"},"educations_ch":["倫敦大學法律學士","香港大學法律專業證書"],"occupations_ch":["大律師"],"parties_ch":["公民黨"],"email":"dennis@denniskwok.hk","homepage":"www.facebook.com/cpdenniskwok","name_en":"Dennis KWOK","constituency_en":{"type":"Functional Constituency","area":"Legal"},"educations_en":["LL.B (Upper Class Hons.), King's College, University of London","PCLL, The University of Hong Kong"],"occupations_en":["Barrister"],"parties_en":["Civic Party"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/kd.jpg",
+  "id": "kd",
+  "name_ch": "郭榮鏗",
+  "constituency_ch": {
+    "type": "功能界別",
+    "area": "法律界"
+  },
+  "educations_ch": [
+    "倫敦大學法律學士",
+    "香港大學法律專業證書"
+  ],
+  "occupations_ch": [
+    "大律師"
+  ],
+  "parties_ch": [
+    "公民黨"
+  ],
+  "email": "dennis@denniskwok.hk",
+  "homepage": "www.facebook.com/cpdenniskwok",
+  "name_en": "Dennis KWOK",
+  "constituency_en": {
+    "type": "Functional Constituency",
+    "area": "Legal"
+  },
+  "educations_en": [
+    "LL.B (Upper Class Hons.), King's College, University of London",
+    "PCLL, The University of Hong Kong"
+  ],
+  "occupations_en": [
+    "Barrister"
+  ],
+  "parties_en": [
+    "Civic Party"
+  ]
+}

@@ -1,1 +1,34 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/fkk.jpg","id":"fkk","name_ch":"馮檢基","constituency_ch":{"type":"功能界別","area":"區議會(第二)"},"educations_ch":["英國百拉福大學社會政策及公共行政榮譽學士（1982）"],"occupations_ch":["立法會議員"],"parties_ch":["香港民主民生協進會"],"email":"info@adpl.org.hk","homepage":"http://www.adpl.org.hk","name_en":"Frederick FUNG Kin-kee","constituency_en":{"type":"Functional Constituency","area":"District Council (Second)"},"educations_en":["B.A. (Hons.) in Social Policy and Public Administration, Bradford University, UK (1982)"],"occupations_en":["Legislative Council Member"],"parties_en":["Hong Kong Association for Democracy and People's Livelihood"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/fkk.jpg",
+  "id": "fkk",
+  "name_ch": "馮檢基",
+  "constituency_ch": {
+    "type": "功能界別",
+    "area": "區議會(第二)"
+  },
+  "educations_ch": [
+    "英國百拉福大學社會政策及公共行政榮譽學士（1982）"
+  ],
+  "occupations_ch": [
+    "立法會議員"
+  ],
+  "parties_ch": [
+    "香港民主民生協進會"
+  ],
+  "email": "info@adpl.org.hk",
+  "homepage": "http://www.adpl.org.hk",
+  "name_en": "Frederick FUNG Kin-kee",
+  "constituency_en": {
+    "type": "Functional Constituency",
+    "area": "District Council (Second)"
+  },
+  "educations_en": [
+    "B.A. (Hons.) in Social Policy and Public Administration, Bradford University, UK (1982)"
+  ],
+  "occupations_en": [
+    "Legislative Council Member"
+  ],
+  "parties_en": [
+    "Hong Kong Association for Democracy and People's Livelihood"
+  ]
+}

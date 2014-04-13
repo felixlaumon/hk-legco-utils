@@ -1,1 +1,38 @@
-{"img":"http://www.legco.gov.hk/images/mem_1216/sck.jpg","id":"sck","name_ch":"單仲偕","constituency_ch":{"type":"地方選區","area":"香港島"},"educations_ch":["香港大學理學士(1982)","香港中文大學工商管理碩士(1997)","香港電腦學會院士"],"occupations_ch":["全職立法會議員"],"parties_ch":["民主黨"],"email":"scklegco@sinchungkai.org.hk","homepage":"http://www.sinchungkai.org.hk","name_en":"SIN Chung-kai","constituency_en":{"type":"Geographical Constituency","area":"Hong Kong Island"},"educations_en":["B.Sc., The University of Hong Kong (1982)","MBA, Chinese University of Hong Kong (1997)","Fellow, The Hong Kong Computer Society"],"occupations_en":["Full-time Legislative Council Member"],"parties_en":["Democratic Party"]}
+{
+  "img": "http://www.legco.gov.hk/images/mem_1216/sck.jpg",
+  "id": "sck",
+  "name_ch": "單仲偕",
+  "constituency_ch": {
+    "type": "地方選區",
+    "area": "香港島"
+  },
+  "educations_ch": [
+    "香港大學理學士(1982)",
+    "香港中文大學工商管理碩士(1997)",
+    "香港電腦學會院士"
+  ],
+  "occupations_ch": [
+    "全職立法會議員"
+  ],
+  "parties_ch": [
+    "民主黨"
+  ],
+  "email": "scklegco@sinchungkai.org.hk",
+  "homepage": "http://www.sinchungkai.org.hk",
+  "name_en": "SIN Chung-kai",
+  "constituency_en": {
+    "type": "Geographical Constituency",
+    "area": "Hong Kong Island"
+  },
+  "educations_en": [
+    "B.Sc., The University of Hong Kong (1982)",
+    "MBA, Chinese University of Hong Kong (1997)",
+    "Fellow, The Hong Kong Computer Society"
+  ],
+  "occupations_en": [
+    "Full-time Legislative Council Member"
+  ],
+  "parties_en": [
+    "Democratic Party"
+  ]
+}
